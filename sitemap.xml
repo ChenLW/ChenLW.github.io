@@ -14,15 +14,6 @@
     
     <url>
     
-      <loc>https://example.com/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://example.com/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -113,8 +104,32 @@
     
     <url>
     
-      <loc>https://example.com/publication/clothing-search/</loc>
+      <loc>https://example.com/publication/q/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/talk/lera/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/talk/sea2017---copy/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/talk/sea2017/</loc>
     </url>
     
   
@@ -132,6 +147,15 @@
     
       <loc>https://example.com/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/publication_types/2/</loc>
       <priority>0</priority>
     </url>
     
@@ -222,6 +246,14 @@
       <loc>https://example.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/publication/dea/</loc>
     </url>
     
   
